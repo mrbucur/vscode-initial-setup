@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "mgmcdermott.vscode-language-babel",
+    "editorconfig.editorconfig",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "bradgashler.htmltagwrap",
+    "ritwickdey.liveserver",
+    "daylerees.rainglow",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "bradlc.vscode-tailwindcss",
+    "mikestead.dotenv",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
